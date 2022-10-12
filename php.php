@@ -7,3 +7,5 @@ while (!feof($arquivo)) {
 
     echo $curso;
 }
+
+fclose($arquivo);
