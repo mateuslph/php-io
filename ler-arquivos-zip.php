@@ -1,3 +1,3 @@
 <?php
 
-echo file_get_contents('zip://php.zip#cursos.txt');
+echo file_get_contents('zip://php.zip#cursos.txt');  // protocolo wrappers
